@@ -1,0 +1,23 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/raigit26/NPM#readme",
+  "bugs": {
+    "url": "https://github.com/raigit26/NPM/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raigit26/NPM.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "moment": "^2.29.0"
+  }
+}
